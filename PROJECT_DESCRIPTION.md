@@ -1,6 +1,6 @@
 # Project Description
 
-**Deployed Frontend URL:** (no deployed URL) — frontend is in `frontend/`
+**Deployed Frontend URL:** [solana-notes-pi.vercel.app](https://solana-notes-pi.vercel.app/)
 
 **Solana Program ID:** `6FHDE4qJYPSstm8kvBTYBQAd3sykJV9e2K5gskNQGAQ2`
 
